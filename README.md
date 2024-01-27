@@ -4,4 +4,5 @@ CIND860 Capstone Project
 
 This repository consists of the following:
 
-The Original DoQA Dataset used. 
+ - The Original DoQA Dataset used.
+ - Exploratory Analysis And Cleaning Of The Dataset
